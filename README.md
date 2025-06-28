@@ -1,2 +1,2 @@
-# spring-http-client-core
+# spring-comm-pattern
 A reusable Spring Boot library that centralizes HTTP client abstractions to standardize inter-service API communication using Feign, WebClient, or RestTemplate.
